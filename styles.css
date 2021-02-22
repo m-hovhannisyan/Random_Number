@@ -1,0 +1,60 @@
+.header {
+    position: relative;
+    border: solid 10px green;
+    width: 290px;
+    height: 150px;
+    margin-left: 40%;
+}
+
+#random_number {
+    background-color: #E0E0E0;
+    width: 57px;
+    margin-left: 38%;
+}
+
+p{
+    font-family: cursive;
+    font-size: 16px;
+}
+
+.randombutton {
+    border-radius: 8px ;
+    border-radius: 8px;
+    padding: 6px 22px;
+    font-size: 17px;
+    font-weight: 800;
+    background: #47B005;
+    border: none;
+    position: absolute;
+    left: 32%;
+    bottom: 4px;
+    cursor: pointer;
+}
+
+.but1{
+    border-radius: 8px ;
+    border-radius: 8px;
+    padding: 6px 22px;
+    font-size: 17px;
+    font-weight: 800;
+    background: #47B005;
+    border: none;
+    position: absolute;
+    left: 12%;
+    bottom: 36px;
+    cursor: pointer;
+}
+
+.but2 {
+    border-radius: 8px ;
+    border-radius: 8px;
+    padding: 6px 22px;
+    font-size: 17px;
+    font-weight: 800;
+    background: #47B005;
+    border: none;
+    position: absolute;
+    left: 52%;
+    bottom: 36px;
+    cursor: pointer;
+}
